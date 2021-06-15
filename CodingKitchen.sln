@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKitchen.AzureFunctions", "CodingKitchen.AzureFunctions\CodingKitchen.AzureFunctions.csproj", "{F60B412B-83C7-4E7E-B350-8706B45B8BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKitchen.Monobank", "CodingKitchen.Monobank\CodingKitchen.Monobank.csproj", "{8CABD14D-100A-4ABE-8C84-5E8430829588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingKitchen.Homemoney", "CodingKitchen.Homemoney\CodingKitchen.Homemoney.csproj", "{04FD3BA1-0F56-4B19-B5FF-276816F004D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60B412B-83C7-4E7E-B350-8706B45B8BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60B412B-83C7-4E7E-B350-8706B45B8BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60B412B-83C7-4E7E-B350-8706B45B8BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60B412B-83C7-4E7E-B350-8706B45B8BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CABD14D-100A-4ABE-8C84-5E8430829588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CABD14D-100A-4ABE-8C84-5E8430829588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CABD14D-100A-4ABE-8C84-5E8430829588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CABD14D-100A-4ABE-8C84-5E8430829588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FD3BA1-0F56-4B19-B5FF-276816F004D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FD3BA1-0F56-4B19-B5FF-276816F004D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FD3BA1-0F56-4B19-B5FF-276816F004D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FD3BA1-0F56-4B19-B5FF-276816F004D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
