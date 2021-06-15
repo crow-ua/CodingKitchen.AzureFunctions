@@ -1,0 +1,22 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "MonobankApiUrl": "https://api.monobank.ua",
+        "MonobankApiKey": "<your monobank api key>",
+        "MonobankAccountId": "<your monobank account id>",
+        "MonobankStatementElementKey": "StatementItem",
+        "HomemoneyApiUrl": "https://homemoney.ua",
+        "HomemoneyConfiguration:Token": "<your homemoney token>",
+        "HomemoneyConfiguration:AccountId": "<homemoney account id>",
+        "HomemoneyConfiguration:CreditType": 1,
+        "HomemoneyConfiguration:DebitType": 3,
+        "HomemoneyConfiguration:CurencyId": "<currency id>",
+        "HomemoneyConfiguration:CreditCategoryId": "<credit category id>",
+        "HomemoneyConfiguration:DebitCategoryId": "<debit category id>",
+        "HomemoneyConfiguration:TransAccountId": "<transaction account id>",
+        "HomemoneyConfiguration:TransCurencyId": "<transaction currency id>",
+        "HomemoneyConfiguration:IsPlan": false
+    }
+}
